@@ -143,3 +143,33 @@ body{
     margin-left: 10px;
     margin-bottom: 10px;
 }
+
+/* footer styles */
+.footer{
+    text-align: center;
+    height: 320px;
+    background-color: #000000;
+    color: white;
+}
+.footer h3{
+    padding-top: 5%;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Work Sans', sans-serif;
+}
+.footer hr{
+    border: 1px solid #333232;
+    margin: 15px 8%;
+}
+.footer-lisit{
+    margin: 0px 18%;
+}
+.footer-lisit a li{
+    list-style: none;
+    float: left;
+    color: #B9B9B9;
+    margin: 20px 40px 0 0px;
+    font-size: 15px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+}
